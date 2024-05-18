@@ -1,0 +1,17 @@
+* {
+  background-color: #222;
+}
+
+h1 {
+  font-size: 32px;
+  color: #eee;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center; /* 水平方向中央 */
+  align-items: center; /* 垂直方向中央 */
+  height: 100vh; /* コンテナを全高さに設定 */
+}
